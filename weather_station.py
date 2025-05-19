@@ -1,5 +1,5 @@
 """
-Important weather station module.
+Important weather station module!
 
 Containing parent class and som child classes with implementation for temperature and rain.
 """
